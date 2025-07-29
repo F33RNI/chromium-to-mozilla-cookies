@@ -31,6 +31,8 @@ from typing import Any
 #                                                                                            #
 # And modified for the <https://github.com/F33RNI/chromium-to-firefox-cookies> project       #
 #                                                                                            #
+# See code around main() (at the end of this file) for more info                             #
+#                                                                                            #
 # ORIGINAL CODE IS LICENSED UNDER THE UNLICENSE LICENSE. PLEASE VIEW ORIGINAL YT-DLP REPO    #
 # <https://github.com/yt-dlp/yt-dlp> FOR MORE INFO                                           #
 #                                                                                            #
